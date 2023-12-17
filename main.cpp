@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <iostream>
 #include <clocale>
 #include "header.h"
@@ -32,10 +32,10 @@ int main() {
                 obj.vychitanie(); 
                 break; 
             case 3:
-                std::cout << "Еще в разработке)\n";
+                obj.ymnozhenie();
                 break;
             case 4:
-                std::cout << "Еще в разработке)\n";
+                obj.delenie();
                 break;
             case 9:
                 exitProgramm = true;
