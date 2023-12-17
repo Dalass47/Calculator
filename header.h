@@ -7,6 +7,8 @@ public:
     double a,b,result;
     void slozenie();
     void vychitanie();
+    void ymnozhenie();
+    void delenie();
 };
 
 #endif // HEADER
