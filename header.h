@@ -8,6 +8,7 @@ public:
     void slozenie();
     void vychitanie();
     void ymnozhenie();
+    void delenie();
 };
 
 #endif // HEADER

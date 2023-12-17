@@ -35,7 +35,7 @@ int main() {
                 obj.ymnozhenie();
                 break;
             case 4:
-                std::cout << "Еще в разработке)\n";
+                obj.delenie();
                 break;
             case 9:
                 exitProgramm = true;

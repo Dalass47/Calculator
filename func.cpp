@@ -37,3 +37,12 @@ void Arifmetika::ymnozhenie(){
        cout << "произведение двух чисел равна  = " << result << endl;
 }
 
+void Arifmetika::delenie(){
+
+       cout << "¬ведите первую цифру" << endl;
+       cin >> a;
+       cout << "¬ведите вторую цифру" << endl;
+       cin >> b;
+       result = a / b;
+       cout << "произведение двух чисел равна  = " << result << endl;
+}
