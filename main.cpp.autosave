@@ -25,10 +25,10 @@ int main() {
         system("cls"); 
         switch (choice) { 
             case 1: //Сложение 
-                std::cout << "Еще в разработке)\n"; 
+                obj.slozenie(); 
                 break; 
             case 2: 
-                obj.vychitanie(); 
+                std::cout << "Еще в разработке)\n"; 
                 break; 
             case 3: 
                 std::cout << "Еще в разработке)\n"; 
