@@ -6,6 +6,7 @@ class Arifmetika{
 public:
     double a,b,result;
     void slozenie();
+    void vychitanie();
 };
 
 #endif // HEADER

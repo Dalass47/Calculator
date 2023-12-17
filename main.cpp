@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <clocale>
 #include "header.h"
@@ -27,9 +28,9 @@ int main() {
             case 1: //Сложение
                 obj.slozenie();
                 break;
-            case 2:
-                std::cout << "Еще в разработке)\n";
-                break;
+            case 2: 
+                obj.vychitanie(); 
+                break; 
             case 3:
                 std::cout << "Еще в разработке)\n";
                 break;
